@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD_Isaias-Ibarra-Onofre.props" />
+</Project>
