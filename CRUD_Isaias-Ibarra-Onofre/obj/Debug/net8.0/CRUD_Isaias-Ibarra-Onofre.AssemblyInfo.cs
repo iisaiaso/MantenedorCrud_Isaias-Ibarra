@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUD_Isaias-Ibarra-Onofre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+982fcf773b26b9253494b58bccf40ceb946dd52b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD_Isaias-Ibarra-Onofre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD_Isaias-Ibarra-Onofre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
